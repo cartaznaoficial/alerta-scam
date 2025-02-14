@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Alerta sobre práticas da empresa LOGIC, Logística Integrada SA.">
+    <title>Alerta Scam - LOGIC, Logística Integrada SA</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8d7da;
+            color: #721c24;
+            padding: 20px;
+            text-align: center;
+            border: 5px solid #f5c6cb;
+            margin: 50px auto;
+            max-width: 600px;
+            box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #b71c1c;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>ALERTA SCAM</h1>
+    <p><strong>Contacto empresa - cliente:</strong> ZERO!</p>
+    <p><strong>Disposição empregue na resolução do problema:</strong> ZERO!</p>
+    <p><strong>Procedimento / Entrega do artigo:</strong> ALERTA PARA A EMPRESA LOGIC, Logística Integrada SA.</p>
+    <p><strong>Solução apresentada pela empresa:</strong> OBRIGATORIEDADE PARA ASSINAR NOTA DE CRÉDITO IMPOSTA POR ESTA ENTIDADE, RETENÇÃO DO VALOR EM LOJA ONLINE PARA USUFRUTO EM COMPRA FUTURA.</p>
+    <p><strong>Prática correta e conhecimento de leis / Aceitação dos direitos aos consumidores:</strong> ZERO!</p>
+    <p><strong>Críticas face entidades externas:</strong> INSATISFATÓRIO!</p>
+    <p><strong>Consideração / Interesse interno prestado pelo apoio ao cliente:</strong> "(...)se quiseres, dá uma vista de olhos a isto".</p>
+</body>
+</html>
